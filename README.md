@@ -2,4 +2,5 @@
 To learn Basic of GitHub
 Change 1 from master
 Change 2 from master
-Change 3 FROM MASTER
+
+Change 3 From Branch 1
